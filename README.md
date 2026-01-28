@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- Add screenshot here -->
+![](./screenshot.jpg)
 
 ### Links
 
