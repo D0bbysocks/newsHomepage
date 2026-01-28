@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <!-- Frontend Mentor solution link -->
-- Live Site URL: [<!-- Live demo link -->](https://d0bbysocks.github.io/newsHomepage/)
+- Live Site URL: [Github](https://d0bbysocks.github.io/newsHomepage/)
 
 ## My process
 
